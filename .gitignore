@@ -7,3 +7,17 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+bigoldfile.dat
+
+java/.classpath
+
+java/.DS_Store
+
+.DS_Store
+
+java/.project
+
+java/.settings/org.eclipse.jdt.core.prefs
+
+java/.settings/org.eclipse.m2e.core.prefs
